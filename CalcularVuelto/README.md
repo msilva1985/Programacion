@@ -7,6 +7,7 @@ Funcion realizada en Java que dado una cantidad de dinero y un monto a pagar, de
 ## Modo de Uso
 
 Para compilar el codigo
+
 	javac Calcular.java 
 
 Para ejecutar el script
